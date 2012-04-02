@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+  <layer name="collective.pygal.core-theme" interface="collective.pygal.core.interfaces.IThemeSpecific"/>
+  <layer name="collective.pygal.core" interface="collective.pygal.core.interfaces.ILayer"/>
+</layers>

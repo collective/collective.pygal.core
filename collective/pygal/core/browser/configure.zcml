@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="collective.pygal.core">
+
+  <browser:resourceDirectory
+      name="collective.pygal.core"
+      directory="resources"
+      layer="collective.pygal.core.interfaces.ILayer"
+      />
+
+</configure>
