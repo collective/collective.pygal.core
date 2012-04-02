@@ -38,4 +38,4 @@ And a lot of options to customize the charts.
 
 See http://pygal.org/ for more information.
 
-
+pygal requires 2.6 > python > 3.0
